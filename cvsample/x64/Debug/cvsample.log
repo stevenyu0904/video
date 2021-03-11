@@ -1,0 +1,29 @@
+﻿  avi.cpp
+d:\opencv\build\install\include\opencv2\calib3d.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+d:\vb\cvsample\cvsample\avi.cpp(29): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+d:\opencv\build\install\include\opencv2\core\cvstd.hpp(575): warning C4793: 'cv::String::String': 函式會編譯成機器碼:
+  	找到受控碼中不支援的內建
+d:\opencv\build\install\include\opencv2\core\cuda.inl.hpp(105): warning C4793: 'cv::cuda::GpuMat::GpuMat': 函式會編譯成機器碼:
+  	找到受控碼中不支援的內建
+d:\opencv\build\install\include\opencv2\core\cuda.inl.hpp(395): warning C4793: 'cv::cuda::HostMem::HostMem': 函式會編譯成機器碼:
+  	找到受控碼中不支援的內建
+d:\opencv\build\install\include\opencv2\core\mat.inl.hpp(561): warning C4793: 'cv::Mat::Mat': 函式會編譯成機器碼:
+  	找到受控碼中不支援的內建
+d:\opencv\build\install\include\opencv2\core\fast_math.hpp(315): warning C4793: '`anonymous namespace'::cvRound': 函式會編譯成機器碼:
+  	找到受控碼中不支援的內建
+d:\opencv\build\install\include\opencv2\core\fast_math.hpp(316): warning C4793: '`anonymous namespace'::cvRound': 函式會編譯成機器碼:
+  	找到受控碼中不支援的內建
+d:\opencv\build\install\include\opencv2\core\mat.inl.hpp(885): warning C4793: 'cv::Mat::release': 函式會編譯成機器碼:
+  	找到受控碼中不支援的內建
+d:\opencv\build\install\include\opencv2\core\mat.inl.hpp(2231): warning C4793: 'cv::SparseMat::addref': 函式會編譯成機器碼:
+  	找到受控碼中不支援的內建
+d:\opencv\build\install\include\opencv2\core\mat.inl.hpp(3831): warning C4793: 'cv::UMat::addref': 函式會編譯成機器碼:
+  	找到受控碼中不支援的內建
+d:\opencv\build\install\include\opencv2\core\ptr.inl.hpp(67): warning C4793: 'cv::detail::PtrOwner::incRef': 函式會編譯成機器碼:
+  	找到受控碼中不支援的內建
+d:\opencv\build\install\include\opencv2\core\ptr.inl.hpp(72): warning C4793: 'cv::detail::PtrOwner::decRef': 函式會編譯成機器碼:
+  	找到受控碼中不支援的內建
+d:\opencv\build\install\include\opencv2\core\cvstd.hpp(657): warning C4793: 'cv::String::operator=': 函式會編譯成機器碼:
+  	找到受控碼中不支援的內建
+  avi.obj : 發現 MSIL 模組。MSIL 的累加連結已停用。正在執行完整連結
+  cvsample.vcxproj -> D:\VB\cvsample\x64\Debug\cvsample.exe
